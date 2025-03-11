@@ -1,4 +1,4 @@
-# APP01_Typescrit
+# APP-SV_Typescrit
 
 ![alt text](Resources/imagen.jpg)
 
