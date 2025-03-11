@@ -1,5 +1,5 @@
 # APP01_Typescrit
 
-![alt text](Resources/image.jpg)
+![alt text](Resources/imagen.jpg)
 
 
